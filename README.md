@@ -9,7 +9,7 @@ My FirstApp
 
 @end
 
-@implementation ViewController
+implementation ViewController
 
 - (void)viewDidLoad
 {
